@@ -1,4 +1,14 @@
-Data Files(same set of data files as that in multi-processes repo).
+Data Files:
+
+/data/hpc_1m.csv
+/data/hpc_2m.csv
+/data/hpc_3m.csv
+/data/hpc_4m.csv
+/data/hpc_5m.csv
+/data/hpc_6m.csv
+/data/hpc_7m.csv
+/data/hpc_8m.csv
+/data/hpc_9m.csv
 
 
 1. to create the executable, run cmake3 and make in command line.
